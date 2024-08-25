@@ -27,6 +27,7 @@ body {
   max-width: 19.375rem;
   padding: 0.9375rem;
   border-radius: 0.9375rem;
+  box-shadow: 0px 20px 35px 0px hsla(0, 3%, 35%, 0.2);
 }
 
 .card-image {
